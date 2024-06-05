@@ -30,7 +30,7 @@ body{
     border-bottom: 383px solid ;
     border-left: 170px solid transparent;
     border-right: 170px solid transparent;
-    filter: opacity(0)
+    filter: opacity(0);
 }
 
 .chao{
